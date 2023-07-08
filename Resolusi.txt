@@ -1,5 +1,7 @@
 - Sudah memahami GRID 
 - Sudah menyapkan project website copy from Practicum
   ^ Make it with friend
--Make a new friend in coding and start to coding with homies together 
-- Get to know tailwind framework and master it in 6 months
+-Make a new friend in coding and start to coding together 
+-Get to know about tailwind framework and master it in 6 months
+  ^  And bootstrap too
+
